@@ -15,6 +15,9 @@ This project analyzes Zomato restaurant data using Excel, Power BI, Tableau, and
 ### Power BI Dashboard - Time-Based Analysis
 <img width="1191" height="744" alt="PowerBI_Page2" src="https://github.com/user-attachments/assets/e5c99720-acd9-4b24-8315-e92e38fb8fa8" />
 
+### Power BI -DrillThrough
+<img width="1147" height="729" alt="PowerBI_Drillthrough" src="https://github.com/user-attachments/assets/c274253f-7d51-4ad5-a71f-69f01c42c6ce" />
+
 ### Tableau Dashboard
 <img width="1658" height="803" alt="Tableau_Dashboard" src="https://github.com/user-attachments/assets/ba7d8645-aa86-438e-ba26-8eea225f871e" />
 
