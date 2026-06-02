@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes Zomato restaurant data using Excel, Power BI, Tableau, and SQL to identify restaurant trends, customer preferences, pricing patterns, cuisine popularity, online delivery adoption, and table booking insights.
+This project analyzes Zomato restaurant data using Excel, Power BI, Tableau, and SQL to uncover insights into restaurant performance, customer preferences, cuisine trends, pricing patterns, online delivery adoption, and table booking behavior. The project includes data modeling, calendar table creation, SQL-based analysis, and interactive dashboards with drill-through functionality to support data-driven decision-making.
 
 ## Dataset
 📊 [Download Dataset](Dataset/Zomato_Analytics_Dataset.xlsx)
